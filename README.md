@@ -2,7 +2,7 @@
 
 ### Projenin Özeti
 
-01.02.2020-26.05.2020 tarihleri arasında icra edilen Kodluyoruz Java 101 Bootcamp Programında yapılmış olan örnek projelere yer verilmiştir.
+Bu bölümde 01.02.2020-26.05.2020 tarihleri arasında icra edilen Kodluyoruz Java 101 Bootcamp Programında yapılmış olan örnek projelere yer verilmiştir.
 SOLİD prensiplerinden,E-ticaret uygulamasına ve örnek bir bitirme projesini kapsayan bu reporsitory bölümünde JAVA SE konularının hepsi üzerinde durulmuştur.
  
 ### Projeyi Nasıl İndireceğiz?
